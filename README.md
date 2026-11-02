@@ -9,6 +9,8 @@ A multithreaded TCP connect scanner with banner grabbing, written with the stand
 
 > Use only on systems you own or have written permission to test.
 
+![Demo](docs/images/demo.svg)
+
 ## Features
 
 - Port specs: single ports, lists, ranges and a `top` preset of commonly exposed services
